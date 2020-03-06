@@ -6,7 +6,7 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: #
+    url: http://scottkato.eventbrite.com/
   - title: Free Strategy Call
     url: /contact/
 client:
@@ -14,9 +14,9 @@ client:
   title:
   license_number:
   about_markdown: |
-
+    We are a team of real estate pros with diverse backgrounds, which allows us to think differently than other real estate groups. We are dedicated to providing the highest quality of service to everyone from first-time home buyers to experienced real estate investors. Clients continue to work with us and refer their friends and family because of our dedication to customer service, results, and love for the communities we serve. Interested in what we do and how we do it? Let's chat today!
   market: Long Beach
-  brand:
+  brand: Kato Group Real Estate
   brokerage: Keller Williams
   address: 2883 E. Spring Street, Ste. 100 Long Beach, CA 90806
   phone: 562-716-4767
@@ -24,7 +24,7 @@ client:
   phone2:
   phone2_type:
   email: skato@kw.com
-  url: http://www.kwpacificestates.com
+  url: http://www.katogroup.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -53,14 +53,14 @@ lender:
   url: http://eyegoop.com
 
 socials:
-  review_sm_icons: false
-  facebook_url: http://www.facebook.com/326567934444057
-  linkedin_url: https://www.linkedin.com/company-beta/12907417/
+  review_sm_icons: true
+  facebook_url: https://www.facebook.com/KatoGroup/
+  linkedin_url:
   youtube_url: https://www.youtube.com/kwpevideos
-  twitter_url: https://twitter.com/kwpacificestate
+  twitter_url: https://twitter.com/scottkato
   instagram_url: http://instagram.com/kwpacificestates
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/ScottKato/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -83,8 +83,9 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#ff4c29'
+  accent_color: '#f7be2f'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
