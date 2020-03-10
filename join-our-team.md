@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Long Beach Careers
 permalink: /join-our-team/
 ---
 
