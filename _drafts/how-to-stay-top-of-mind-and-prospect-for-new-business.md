@@ -21,7 +21,9 @@ youtube_code: jQO49hRL-Po
 
 {% include youtube.html %}
 
-What can you do to stay top of mind with your database and still prospect for business with the stay-at-home ordinance that is in effect?
+<center><em>Here are my tips for staying top of mind with your database and prospecting for new business despite the stay-at-home ordinances sweeping the nation.</em></center>
+
+<br>What can you do to stay top of mind with your database and still prospect for business with the stay-at-home ordinance that is in effect?
 
 My team, including our entire market center, is making 10 “I care” calls per day. One of these calls might sound something like this:
 
