@@ -7,7 +7,7 @@ tags:
   - Lead Generation
 excerpt: >-
   Here are my tips for staying top of mind with your database and prospecting
-  for new business despite the stay-at-home ordinances sweeping the nation.
+  for new business despite the stay-at-home ordinances.
 enclosure:
 pullquote: >-
   When we recently joined forces with Facebook, we became one of their largest
