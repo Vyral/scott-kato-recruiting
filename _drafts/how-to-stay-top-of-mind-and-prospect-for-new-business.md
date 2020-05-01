@@ -31,9 +31,9 @@ My team, including our entire market center, is making 10 “I care” calls per
 
 You may be asking yourself, “How do I prospect for new business?”
 
-Our office is running Facebook ads through our new Keller Williams CRM system, Command. When we recently joined forces with Facebook, we became one of their largest clients overnight. Therefore, we get huge discounts on any ad expenditures that we do with them.
+**Our office is running Facebook ads through our new Keller Williams CRM system, KW Command**. When we recently joined forces with Facebook, we became one of their largest clients overnight. Therefore, we get huge discounts on any ad expenditures that we do with them.
 
-For example, one of my top agents listed a home just last week. He ran a new ad through our Command system along with Facebook and he generated 120 leads at &nbsp;$1.63 per click—that’s unheard of\! Had he done it on his own, he could easily have spent over $6 per lead.
+For example, one of my top agents listed a home just last week. He ran a new ad through our Command system along with Facebook and he generated 120 leads at &nbsp;$1.63 per click—that’s unheard of\! **Had he done it on his own, he could easily have spent over $6 per lead**.
 
 If you would like to receive the “I care” script or learn more about using our Command CRM system with Facebook, please feel free to reach out to us. We would be more than happy to have a conversation about the growth of your business.
 
