@@ -27,7 +27,7 @@ youtube_code: jQO49hRL-Po
 
 My team, including our entire market center, is making 10 “I care” calls per day. One of these calls might sound something like this:
 
-“Hi, Mrs. Smith\! I just wanted to reach out and let you know that I was thinking about you and to see how you were holding up. I believe that we’re all in this together, so I wanted to see if there was anything that I can do to help you. I believe that we’re going to come out of this stronger and more connected than ever before.”
+“Hi, Mrs. Smith\! I just wanted to reach out and let you know that I was thinking about you and to see how you were holding up. I believe that we’re all in this together, so I wanted to see if there was anything that I can do to help you. I believe that we’re going to come out of this stronger and more connected than ever.”
 
 {% include pullquote.html %}
 
