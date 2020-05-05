@@ -4,16 +4,16 @@
     <title>Long Beach Real Estate Podcast with Scott Kato</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kato Group Real Estate - your professional Long Beach Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kato Group - your professional Long Beach Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Kato</managingEditor>
-    <lastBuildDate>2020-03-10 14:23:40 -0500</lastBuildDate>
+    <lastBuildDate>2020-05-05 16:28:04 -0500</lastBuildDate>
     <media:copyright>Scott Kato</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Long Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>skato@kw.com</itunes:email>
+      <itunes:email>scott@coachkato.com</itunes:email>
       <itunes:name>Scott Kato</itunes:name>
     </itunes:owner>
     <itunes:author>Scott Kato</itunes:author>
@@ -21,12 +21,57 @@
     <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Long Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Long Beach Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kato Group Real Estate - your professional Long Beach Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kato Group - your professional Long Beach Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How to Stay Top of Mind and Prospect for New Business</title>
+        <link>http://localhost:4000/how-to-stay-top-of-mind-and-prospect-for-new-business.html</link>
+        
+          <category>Buyer Prospects</category>
+        
+          <category>Lead Generation</category>
+        
+        <author>Scott Kato</author>
+        <pubDate>2020-04-30 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Here are my tips for staying top of mind with your database and prospecting for new business despite the stay-at-home ordinances sweeping the nation.
+
+What can you do to stay top of mind with your database and still prospect for business with the stay-at-home ordinance that is in effect?
+
+My team, including our entire market center, is making 10 “I care” calls per day. One of these calls might sound something like this:
+
+“Hi, Mrs. Smith! I just wanted to reach out and let you know that I was thinking about you and to see how you were holding up. I believe that we’re all in this together, so I wanted to see if there was anything that I can do to help you. I believe that we’re going to come out of this stronger and more connected than ever.”
+
+“When we recently joined forces with Facebook, we became one of their largest clients overnight.”
+
+You may be asking yourself, “How do I prospect for new business?”
+
+Our office is running Facebook ads through our new Keller Williams CRM system, KW Command. When we recently joined forces with Facebook, we became one of their largest clients overnight. Therefore, we get huge discounts on any ad expenditures that we do with them.
+
+For example, one of my top agents listed a home just last week. He ran a new ad through our Command system along with Facebook and he generated 120 leads at  $1.63 per click—that’s unheard of! Had he done it on his own, he could easily have spent over $6 per lead.
+
+If you would like to receive the “I care” script or learn more about using our Command CRM system with Facebook, please feel free to reach out to us. We would be more than happy to have a conversation about the growth of your business.
+
+
+  
+
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are my tips for staying top of mind with your database and prospecting for new business despite the stay-at-home ordinances.</itunes:subtitle>
+        <itunes:author>Scott Kato</itunes:author>
+        <itunes:summary>Here are my tips for staying top of mind with your database and prospecting for new business despite the stay-at-home ordinances.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Long Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
     <copyright>Scott Kato</copyright>
     <media:credit role="author">Scott Kato</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kato Group Real Estate - your professional Long Beach Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Kato Group - your professional Long Beach Real Estate Agents.</media:description>
   </channel>
 </rss>

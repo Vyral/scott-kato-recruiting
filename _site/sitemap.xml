@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/how-to-stay-top-of-mind-and-prospect-for-new-business.html</loc>
+<lastmod>2020-04-30T19:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -17,6 +21,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/join-our-team/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/newsletter/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/search.html</loc>
