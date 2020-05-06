@@ -17,7 +17,7 @@ client:
   title:
   license_number:
   about_markdown: >-
-    Hello my name is Scott Kato and I’ve been a licensed Realtor since 2003. By
+    Hello, my name is Scott Kato and I’ve been a licensed Realtor since 2003. By
     following the Millionaire Real Estate Agent (MREA) I stepped out of
     production in 2016 by implementing systems, models and hiring talent. The
     Kato Group consistently ranks as a top team in SoCal that helps over 100
@@ -27,11 +27,9 @@ client:
     prospect for like minded entrepreneurs just like you to join our World Class
     Culture.
   market: Long Beach
-  brand: Kato Group
+  brand:
   brokerage: Keller Williams Forward Living
-  address: >-
-    2883 E Spring St #100<br>Long Beach, CA 90806<br>14241 Firestone Blvd
-    #100<br>La Mirada, CA 90638
+  address: '14241 Firestone Blvd #100<br>La Mirada, CA 90638'
   phone: (562) 716-4767
   phone_type:
   phone2:
