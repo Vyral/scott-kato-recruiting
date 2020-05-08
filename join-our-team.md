@@ -1,11 +1,11 @@
 ---
 layout: recruiting
-title: Long Beach Careers
+title: Los Angeles County Careers
 permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
+<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Los Angeles County</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">
 <span class="client-image-container">
@@ -27,11 +27,15 @@ permalink: /join-our-team/
 
 <p>Switching teams all of the time is simply not a substitute for addressing the fundamental issues that may exist in an agent’s strategy or mentality. It’s no wonder that, sadly, <strong>80% of agents leave the industry within their first two year years.</strong> So many have the talent but lack the proper systems and models; can’t find adequate mentoring; don’t have realistic expectations; or eventually give in to a self-defeating mindset.</p>
 
+<img src="/img/001.jpg" class="join-our-team">
+
 <p>Maybe you do have a mentor right now, but they like playing their cards close to the chest. You may get tidbits of wisdom here and there, but they never let you know about “the secret sauce” that fueled their ascent in real estate. It’s hard to emulate someone’s success if you don’t know what habits to develop. </p>
 
 <p>If you’re kept awake at night by not knowing where your next deal will come from, or if you’re on the verge of throwing in the towel and getting a W-2 job again, pay close attention: </p>
 
 <p><strong>My name is Scott Kato, and I can help make yours a predictable and scalable business with solid systems and real leverage. More importantly, I can help you get your time back.</strong> </p>
+
+<img src="/img/002.jpg" class="join-our-team">
 
 <p>With the Millionaire Real Estate Agent approach pioneered by Gary Keller, and the help of my business coach, I’ve been able to remove myself from the grind of the business and gain my own time back. Now, I do what I’m most passionate about: Sharing systems and models with other agents who refuse to settle for mediocrity.
 Last year, my team sold over $40 million in real estate, helping 75 families in the process. I didn’t help buy or sell a single home myself; I was able to spend my time investing in the success of the 130 like-minded, growth-focused agents in my office, teaching them the systems and models that have ushered in proven results. </p>
@@ -44,11 +48,15 @@ Last year, my team sold over $40 million in real estate, helping 75 families in 
 
 <p>Raymundo Miramontes joined my team as a runner when he was 20 years old. A year later, Ray started assisting tenants with leases, and eight months after that, transitioned to the Kato Group sales team. In his first full year in sales, he sold 34 homes, outdoing himself the following year with 37. Ray was so successful that he branched off a few years ago to start his own practice. Last year, his team sold 50 homes. Ray achieved all of this within 5 years. </p>
 
+<img src="/img/003.jpg" class="join-our-team">
+
 <p>Then there’s Jin Hong, who joined our office in 2017. For three straight years prior to joining, Jin stagnated at $14 million in sales. To some agents, that’s an enviable number, and though he had mastered systems that consistently produce $14 million in sales, Jin wanted more. He was exactly the type of coachable, growth-minded individual that thrives in our program. </p>
 
 <p>Using what he learned here, Jin quickly went from $14 million to $25 million in sales. He then started a team of his own, and in 2019, that team of seven managed $44 million in sales—that’s more than 70% in just under 24 months. The best part is that Jin now has all of his weekends back and can delight in raising his family, which recently welcomed another baby. </p>
 
 <p><strong>The success Ray and Jin experienced is not an anomaly.</strong> If you’re capable of handling constructive criticism from experts and truly believe you can accomplish anything in real estate, you’ll benefit tremendously from what we at Keller Williams Pacific Estates have to offer.</p>
+
+<img src="/img/004.jpg" class="join-our-team">
 
 <p>What are you waiting for? Don’t join the boutique brokerage that seems cozy but lags far behind industry trends. Don’t keep losing sleep at night wondering how you’ll ever get out of the financial hole you’re digging for yourself. Don’t head back to the 9-to-5 lifestyle where you’re micromanaged. <strong>Reach out today and we’ll get you on the right track.</strong> Of course, you can put it off, just like those lead generation activities you know you should be doing… </p>
 
