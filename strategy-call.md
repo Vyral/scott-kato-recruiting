@@ -81,15 +81,6 @@ permalink: /strategy-call/
 <p>Sincerely,</p>
 <p>{{site.data.settings.client.name}}</p>
 
-<p><span class="testimonial-author">Questions for the Questionnaire before the Call </span>
-<ol class="indent">
-<li>Why did you get into Real Estate? </li>
-<li>What is your vision for your career?</li>
-<li>What are you doing now?</li>
-<li>What works well / what are you proud of?</li>
-<li>What do you need to change to become successful? </li>
-<li>What outcome do you want from your call with ____?</li>
-</ol></p>
 
 
 <h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
