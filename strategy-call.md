@@ -24,7 +24,7 @@ permalink: /strategy-call/
 
 <p>My name is Scott Kato and I’ve sold over 1500 homes to date. </p>
 
-<img src="/img/strat02.jpg" class="half-image"><br>
+<img src="/img/strat02.JPG" class="half-image"><br>
 
 
 
