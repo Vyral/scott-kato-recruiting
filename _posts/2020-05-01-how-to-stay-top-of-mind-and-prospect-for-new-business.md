@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here are my tips for staying top of mind with your database and prospecting
   for new business despite the stay-at-home ordinances.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/How+to+Stay+Top+of+Mind+and+Prospect+for+New+Business.mp4
 pullquote: >-
   When we recently joined forces with Facebook, we became one of their largest
   clients overnight.
