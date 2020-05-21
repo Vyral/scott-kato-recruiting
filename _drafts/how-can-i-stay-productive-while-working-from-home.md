@@ -18,7 +18,9 @@ youtube_code: 5RbeLkKI5kU
 
 {% include youtube.html %}
 
-I’ve been working from home, and I’ll admit that I’m not very disciplined at all, meaning that, absent some kind of routine, I will inevitably end up doing one of two things: working constantly and ignoring the people I love or never actually starting my workday at all. Obviously, my family doesn’t love the first scenario, my business partners don’t love the second, and truthfully, I’m not a fan of either.
+<center><em>How can you stay productive while working from home?</em></center>
+
+<br>I’ve been working from home, and I’ll admit that I’m not very disciplined at all, meaning that, absent some kind of routine, I will inevitably end up doing one of two things: working constantly and ignoring the people I love or never actually starting my workday at all. Obviously, my family doesn’t love the first scenario, my business partners don’t love the second, and truthfully, I’m not a fan of either.
 
 Despite my lifelong dream of living outside of any structure, **I designed a workday for myself and you should too**.
 
