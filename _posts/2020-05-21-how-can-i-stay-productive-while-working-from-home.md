@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-20-kato-youtube.jpg
-youtube_code: 5RbeLkKI5kU
+youtube_code: XxVCyAl5RPY
 ---
 
 {% include youtube.html %}
