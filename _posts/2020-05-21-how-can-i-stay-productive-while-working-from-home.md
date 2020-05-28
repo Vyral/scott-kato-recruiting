@@ -5,7 +5,8 @@ date: 2020-05-21 00:00:00
 tags:
   - Transaction Management
 excerpt: How can you stay productive while working from home?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/How+Can+I+Stay+Productive+While+Working+From+Home_.mp4
 pullquote: >-
   Routine automates discipline, and being stuck in a routine is preferable to
   not having one.
