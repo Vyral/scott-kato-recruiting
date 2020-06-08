@@ -9,7 +9,7 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: 'https://www.eventbrite.com/o/scott-kato-wwwcoachkatocom-30053997574'
+    url: /events/
   - title: Free Strategy Call
     url: /strategy-call/
 client:
