@@ -8,6 +8,8 @@ permalink: /join-our-team/
 
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 
+<div class="col-md-8 col-md-offset-2"><div style="margin-top:3rem;"><iframe width="560" height="315" src="https://www.youtube.com/embed/8ysUXL6wNIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 Dear Real Estate Agent,
 
 If you’re reading this, you’ve either been grinding in the industry for a while, or you’re just getting started. That means you already know how taxing this business can be—or will soon find out.
