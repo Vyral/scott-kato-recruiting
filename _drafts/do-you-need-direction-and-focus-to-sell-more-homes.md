@@ -16,7 +16,9 @@ youtube_code: VQCgWvOt7xw
 
 {% include youtube.html %}
 
-I know how challenging it is to sell real estate. That’s why I want to talk to you about what I can do to help get your career on the right track.
+<center><em>Here’s how I can help you get your real estate career on track.</em></center>
+
+<br>I know how challenging it is to sell real estate. That’s why I want to talk to you about what I can do to help get your career on the right track.
 
 There are discount brokerages, competing agents, and hundreds of ways to get clients. All are not equal, and **it can get overwhelming to stick to a consistent plan**. I will meet with you one-on-one to help you write a business plan that you can immediately use to generate leads, appointments, and sales.
 
