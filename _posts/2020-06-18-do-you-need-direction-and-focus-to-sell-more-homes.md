@@ -16,7 +16,7 @@ youtube_code: VQCgWvOt7xw
 
 {% include youtube.html %}
 
-<center><em>Here’s how I can help you get your real estate career on track.</em></center>
+<center><em>Here&rsquo;s how I can help you get your real estate career on track.</em></center>
 
 <br>I know how challenging it is to sell real estate. That’s why I want to talk to you about what I can do to help get your career on the right track.
 
