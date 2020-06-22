@@ -24,11 +24,11 @@ There are discount brokerages, competing agents, and hundreds of ways to get cli
 
 My name is Scott Kato and I’ve sold over 1,500 homes to date. I want to help you sell more homes, too. I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes. I’ll also share what we’re doing that works to generate leads and sales.
 
-Once I understand how you like to do business, whether it be by referral, prospecting, or marketing-based. **I’ll help you write a business plan tailored for you** and you’ll walk away with a plan of action with steps you can take right away to find homeowners who want to sell their home and list with you. This will help you get the freedom that we all want from our business.
+Once I understand how you like to do business. **I’ll help you write a business plan tailored for you**; you’ll leave with a plan of action and steps you can implement right away to find homeowners who want to sell their home and list with you. This will help you get the freedom that we all want from our business.
 
 {% include pullquote.html %}
 
-I’ll help you for free on the condition that, over the long-term, and only if it makes sense, you'd like to learn more about working at our brokerage. Let me be clear: That’s another conversation for another time, if you have an interest.
+I’ll help you for free on the condition that, over the long-term, and only if it makes sense, you learn more about working at our brokerage. Let me be clear: That’s another conversation for another time, and only if you have an interest.
 
 I also figure we’ll do business together someday one way or another, and **I’d like to get to know you**. I like seeing real estate agents succeed. It’s fulfilling, and I love it.
 
