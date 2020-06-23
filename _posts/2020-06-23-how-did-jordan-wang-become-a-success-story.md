@@ -22,3 +22,5 @@ youtube_code: WVUVK_QiBeg
 Jordan is married with two children, fraternal twins. He used to work sales in the imports and exports business. He decided to get his real estate license when he lost his money in the import-export business because products weren’t moving well.
 
 {% include full-post-cta.html %}
+
+&nbsp;
