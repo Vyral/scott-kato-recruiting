@@ -19,6 +19,6 @@ youtube_code: WVUVK_QiBeg
 
 <br>Today I’m **interviewing real estate agent Jordan Wang about his career in real estate and how he became a success story**. We’ll discuss how he got started in the business, his daily goals, how he got comfortable with failing so he could build from it, the value he brings to a real estate team, and more.
 
-Jordan is married with two children, fraternal twins. He used to work sales in the imports and exports business. He decided to get his real estate license when he lost his money in the import-export business because products weren’t moving well.
+Jordan is married with two children—fraternal twins. He used to work sales in the imports and exports business. He decided to get his real estate license when he lost his money in the import-export business because products weren’t moving well.
 
 {% include full-post-cta.html %}
