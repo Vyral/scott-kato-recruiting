@@ -5,7 +5,8 @@ date: 2020-06-23 00:00:00
 tags:
   - Results
 excerpt: This is how real estate agent Jorgan Wang became a great success story.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/How+Did+Jordan+Wang+Become+a+Success+Story_+_+Real+Estate+Success+Stories.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
