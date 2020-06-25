@@ -11,6 +11,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/06-18-kato-youtube.jpg
 youtube_code: WVUVK_QiBeg
+hidden: false
 ---
 
 {% include youtube.html %}

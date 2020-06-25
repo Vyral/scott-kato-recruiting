@@ -5,9 +5,31 @@
     <description>Scott Kato, a top Real Estate Agent in Long Beach, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jun 2020 15:52:48 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2020 15:52:48 -0500</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2020 09:56:32 -0500</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2020 09:56:32 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>How Did Jordan Wang Become a Success Story?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WVUVK_QiBeg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;center&gt;&lt;em&gt;This is how real estate agent Jorgan Wang became a great success story.&lt;/em&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;Today I’m &lt;strong&gt;interviewing real estate agent Jordan Wang about his career in real estate and how he became a success story&lt;/strong&gt;. We’ll discuss how he got started in the business, his daily goals, how he got comfortable with failing so he could build from it, the value he brings to a real estate team, and more.&lt;/p&gt;
+
+&lt;p&gt;Jordan is married with two children—fraternal twins. He used to work sales in the imports and exports business. He decided to get his real estate license when he lost his money in the import-export business because products weren’t moving well.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/strategy-call/&quot;&gt;
+  &lt;img src=&quot;/img/cta-images/full-strategy-call.jpg&quot; alt=&quot;Strategy Call&quot; class=&quot;full-post-cta&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 22 Jun 2020 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/how-did-jordan-wang-become-a-success-story.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-did-jordan-wang-become-a-success-story.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>How Can I Stay Productive While Working From Home?</title>
@@ -40,6 +62,7 @@
 &lt;p&gt;&lt;a href=&quot;/strategy-call/&quot;&gt;
   &lt;img src=&quot;/img/cta-images/full-strategy-call.jpg&quot; alt=&quot;Strategy Call&quot; class=&quot;full-post-cta&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 20 May 2020 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/how-can-i-stay-productive-while-working-from-home.html</link>
@@ -75,6 +98,7 @@
 &lt;p&gt;&lt;a href=&quot;/strategy-call/&quot;&gt;
   &lt;img src=&quot;/img/cta-images/full-strategy-call.jpg&quot; alt=&quot;Strategy Call&quot; class=&quot;full-post-cta&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 30 Apr 2020 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/how-to-stay-top-of-mind-and-prospect-for-new-business.html</link>
