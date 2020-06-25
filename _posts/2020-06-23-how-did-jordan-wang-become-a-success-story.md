@@ -3,6 +3,7 @@ layout: post
 title: How Did Jordan Wang Become a Success Story?
 date: 2020-06-23 00:00:00
 tags:
+  - Results
 excerpt: This is how real estate agent Jorgan Wang became a great success story.
 enclosure:
 pullquote:
