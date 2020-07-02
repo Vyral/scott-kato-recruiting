@@ -28,5 +28,3 @@ hidden: true
 If you have questions about any of the topics discussed in this interview, don’t hesitate to reach out to me. I’m happy to help.
 
 {% include full-post-cta.html %}
-
-&nbsp;
