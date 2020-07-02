@@ -17,7 +17,7 @@ hidden: true
 
 {% include youtube.html %}
 
-<center><em>Here’s the story of how Noel Valdez found success as an agent.</em></center>
+<center><em>Here&rsquo;s the story of how Noel Valdez found success as an agent.</em></center>
 
 <br>Today I’m sharing another agent success story. This time, Noel Valdez takes the spotlight to talk about how he got into the real estate business, how he crafted a business model that started paying dividends, and what advice he has for new agents.
 
