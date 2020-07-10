@@ -17,7 +17,7 @@ hidden: false
 
 {% include youtube.html %}
 
-<center><em>Here’s what moving your mode of thinking from ‘E’ to ‘P’ means.</em></center>
+<center><em>Here&rsquo;s what moving your mode of thinking from &lsquo;E&rsquo; to &lsquo;P&rsquo; means.</em></center>
 
 <br>Experience a breakthrough from ‘E’ to ‘P⁠’—what does that mean? You’re going to need enthusiasm and energy for success. However, you can’t do everything without a plan. Today I’m explaining what moving from ‘E’ to ‘P’ means, and how you can do it.
 
