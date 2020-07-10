@@ -17,7 +17,9 @@ hidden: false
 
 {% include youtube.html %}
 
-Experience a breakthrough from ‘E’ to ‘P⁠’—what does that mean? You’re going to need enthusiasm and energy for success. However, you can’t do everything without a plan. Today I’m explaining what moving from ‘E’ to ‘P’ means, and how you can do it.
+<center><em>Here’s what moving your mode of thinking from ‘E’ to ‘P’ means.</em></center>
+
+<br>Experience a breakthrough from ‘E’ to ‘P⁠’—what does that mean? You’re going to need enthusiasm and energy for success. However, you can’t do everything without a plan. Today I’m explaining what moving from ‘E’ to ‘P’ means, and how you can do it.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
