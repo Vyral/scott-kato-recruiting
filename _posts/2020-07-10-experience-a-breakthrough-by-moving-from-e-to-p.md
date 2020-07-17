@@ -5,7 +5,8 @@ date: 2020-07-10 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s what moving your mode of thinking from ‘E’ to ‘P’ means.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/Experience+a+Breakthrough+by+Moving+From+E+to+P.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
