@@ -14,5 +14,11 @@ youtube_code:
 hidden: false
 ---
 {% include youtube.html %}
-{% include full-post-cta.html %}
+
+<center><em>EXCERPT.</em></center>
+
+<br>ARTICLE
+
 {% include pullquote.html %}
+
+{% include full-post-cta.html %}
