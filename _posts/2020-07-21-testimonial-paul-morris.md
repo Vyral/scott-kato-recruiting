@@ -25,6 +25,6 @@ If you are a tech wizard; Scott can help you. If you know nothing at all about t
 
 Lastly, Scott has himself grow his own real estate team from 'very good' to 'world class'—this is who I would pick as a coach if I were anywhere from a very seasoned agent to someone looking to grow a new business. I stake my 15 years reputation on everything I just said\!\!\!\!"
 
-\- Paul Morris, CEO Forward Living (KW’s 2nd largest franchise group); OP KW Beverly Hills, Hollywood Hills, and Studio City and KW Regional Owner and Regional Director for KW Central and Southern CA Regions.
+\- **Paul Morris**, CEO Forward Living (KW’s 2nd largest franchise group); OP KW Beverly Hills, Hollywood Hills, and Studio City and KW Regional Owner and Regional Director for KW Central and Southern CA Regions.
 
 {% include full-post-cta.html %}
