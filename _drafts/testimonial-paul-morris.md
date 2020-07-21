@@ -17,7 +17,7 @@ youtube_code:
 hidden: true
 ---
 
-![](/uploads/pm-headshot.jpg){: width="1092" height="1092"}
+<center>![](/uploads/pm-headshot.jpg){: width="1092" height="1092"}</center>
 
 "Scott is one of the most innovative and forward-thinking leaders I have met. Specifically, I don’t know anyone who is better suited to help agents grow their business and transition their business (which at the end of the day STILL is a people business) into a new age where technology assists agents.
 
