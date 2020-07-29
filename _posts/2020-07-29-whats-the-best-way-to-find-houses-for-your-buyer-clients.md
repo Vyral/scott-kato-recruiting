@@ -26,11 +26,11 @@ You may have 10 or 15 pre-approved buyers, but there’s no inventory to direct 
 
 There are several reasons for this, but the point I want to share is that **you shouldn’t confuse motivated buyers with talk of a hot real estate market**. Buyers generally give you, the agent, three strikes before doing one of three things:
 
-<p style="margin-left: 10px;">1\. Place their buyer needs on hold (at least for another 12 months)
+1\. Place their buyer needs on hold (at least for another 12 months)
 
 2\. Fire you and work with another agent
 
-3\. Put things on hold for 30 days (typically, this means they’ll explore other options and consider working directly with a listing agent)</p>
+3\. Put things on hold for 30 days (typically, this means they’ll explore other options and consider working directly with a listing agent)
 
 What’s an agent to do? **Meet with your title representative and ask them to provide the specifics of your clients’ needs** (areas of interest, price points, bed/bath preferences, etc.). Give them the boundaries of the major cross streets, and they’ll give you addresses that match your clients’ criteria.
 
