@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/07-27-kato-youtube-2.jpg
+youtube_alternate_image: /uploads/07-27-kato-youtube-2-1.jpg
 youtube_code: _TgvaEIlfkI
 hidden: true
 ---
