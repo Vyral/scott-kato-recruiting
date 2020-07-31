@@ -46,7 +46,7 @@ My name is Scott Kato with the Kato Group. I don’t know if you know this, but 
 
 In addition to the letter, our team has our virtual assistant circle-prospect the neighborhood using the same script from the letter. Christine Lee, one of my agents, sent this letter out on behalf of a client looking to buy in La Habra Heights. Not only did she get several responses, but she got her client into escrow while representing the seller at the same time. Additionally, she came across another homeowner who was interested in selling, and she listed their home too.
 
-All told, she mailed one letter to 75 homes, which was an only investment of $100. That $100 led to three pieces of business, the sales volume of which totalled $2.7 million and resulted in $60,000 worth of commission.
+All told, she mailed one letter to 75 homes, which was an only investment of $100. That $100 led to three pieces of business, the sales volume of which totaled $2.7 million and resulted in $60,000 worth of commission.
 
 My point is this: **Stop being passive**. Put down your fishing pole and stop wasting your time waiting for the MLS to launch another listing you’ll have to compete for against 30 other buyers. Pick up your spear and go hunting for your clients. Do what most agents won’t do.
 
