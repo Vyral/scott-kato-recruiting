@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Estate Success Stories Ep. 2: Noel Valdez'
+title: 'Real Estate Success Stories, Ep. 2: Noel Valdez'
 date: 2020-07-02 00:00:00
 tags:
   - Results
