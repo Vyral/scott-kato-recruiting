@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Estate Success Stories Ep. 3: Stephanie Gutierrez'
+title: 'Real Estate Success Stories, Ep. 3: Stephanie Gutierrez'
 date: 2020-07-29 00:00:00
 tags:
   - Results
