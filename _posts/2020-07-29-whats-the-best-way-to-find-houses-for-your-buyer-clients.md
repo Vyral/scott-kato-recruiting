@@ -6,7 +6,8 @@ tags:
   - Buyer Prospects
   - Lead Generation
 excerpt: You need to go above and beyond for your buyer clients in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/Whats+the+Best+Way+to+Find+Houses+for+Your+Buyer+Clients_.mp4
 pullquote: Pick up your spear and go hunting for your clients’ needs.
 enclosure_type: video/mp4
 enclosure_time:
