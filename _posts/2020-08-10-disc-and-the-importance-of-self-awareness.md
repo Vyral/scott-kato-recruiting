@@ -19,7 +19,7 @@ hidden: false
 
 <center><em>Here&rsquo;s what DISC Assessment is and how to apply it to your business.</em></center>
 
-<br>Everybody is different, but we’re all *predictably* different. We all have our own patterns of behavior, but do any of us ever take the time to really understand why we do what we do?
+<br>Everybody is different, but we’re all *predictably* different. We all have our own patterns of behavior, but do any of us ever take the time to really understand *why* we do what we do?
 
 A DISC assessment examines how an individual ranks in four areas of behavior. Here’s what each category means and how it applies to real estate:
 
