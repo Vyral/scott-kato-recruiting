@@ -5,7 +5,8 @@ date: 2020-08-10 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s what a DISC Assessment is and how to apply it to your business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/DISC+and+the+Importance+of+Self-Awareness.mp4
 pullquote: Do any of us ever take the time to really understand why we do what we do?
 enclosure_type: video/mp4
 enclosure_time:
