@@ -43,6 +43,6 @@ While you’re exploring Keller’s ideas, I also encourage you to read Hal Elro
 
 **Big goals require sustained effort, which in turn requires a steady stream of energy at your disposal**. Make sure your energy plan is completed every morning by 11 a.m. The new day and all the busyness it contains will arrive before you know it, so be prepared to meet it head on.
 
-As always, if there’s a topic you’d like me to discover, please let me know. If you’d like to join in on any of our Zoom meetings and weekly Masterminds, join our world-class culture, or hire mie as your coach, please <u><a target="_blank" rel="noopener" href="https://coachkato.com/">visit my website</a></u>. Stay tuned for my next video\!
+As always, if there’s a topic you’d like me to discover, please let me know. If you’d like to join in on any of our Zoom meetings and weekly Masterminds, join our world-class culture, or hire me as your coach, please <u><a target="_blank" rel="noopener" href="https://coachkato.com/">visit my website</a></u>. Stay tuned for my next video\!
 
 {% include full-post-cta.html %}
