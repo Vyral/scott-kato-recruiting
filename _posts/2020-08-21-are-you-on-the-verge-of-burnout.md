@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/08-20-kato-youtube.jpg
-youtube_code: 9kB1ldhSwZs
+youtube_code: in5k9UTzYzU
 hidden: false
 ---
 
