@@ -5,7 +5,8 @@ date: 2020-08-21 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s how to avoid a state of burnout in your career.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/Are+You+on+the+Verge+of+Burnout_.mp4
 pullquote: 'Burnout is the opposite of progress, and its draining effect can be dangerous.'
 enclosure_type: video/mp4
 enclosure_time:
