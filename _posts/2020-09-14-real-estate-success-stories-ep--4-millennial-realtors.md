@@ -12,7 +12,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/09-10-kato-youtube.jpg
 youtube_code: n9Yhz_7HoEk
-hidden: false
+hidden: true
 ---
 
 {% include youtube.html %}
