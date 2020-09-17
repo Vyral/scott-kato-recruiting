@@ -6,7 +6,8 @@ tags:
   - Buyer Prospects
   - Lead Generation
 excerpt: Here’s how to attract great clients through a successful online seminar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/What+Does+It+Take+to+Hold+a+Successful+Online+Buyer+Workshop_.mp4
 pullquote: Establish your role as a fiduciary.
 enclosure_type: video/mp4
 enclosure_time:
