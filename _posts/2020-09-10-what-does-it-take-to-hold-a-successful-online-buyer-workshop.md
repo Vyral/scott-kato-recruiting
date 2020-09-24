@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/09-09-kato-youtube.jpg
-youtube_code: wOsYONYFBVE
+youtube_code: Dsd4WyLb0OQ
 hidden: false
 ---
 
@@ -51,7 +51,7 @@ As you prepare your slide deck (or your pitch deck if you’re using Command), h
 
 **9\. Choose the same time each month for your seminars**, building momentum with each one.
 
-**If you <u><a target="_blank" rel="noopener" href="https://coachkato.com/subscribe/">register here on my blog</a></u> and email <u><a href="mailto:Michelle@coachkato.com">Michelle@coachkato.com</a></u>, we’ll send you a copy of my 49-page template for your next virtual homebuyer event**.
+**If you <u><a target="_blank" rel="noopener" href="https://coachkato.com/subscribe/">register here on my blog</a></u> and email <u><a href="mailto:Michelle@coachkato.com">merchelle@coachkato.com</a></u>, we’ll send you a copy of my 49-page template for your next virtual homebuyer event**.
 
 If you have any questions for me, would like to talk about your business, or want to attend any of our Zoom trainings or masterminds, don’t hesitate to reach out today. I look forward to hearing from you.
 
