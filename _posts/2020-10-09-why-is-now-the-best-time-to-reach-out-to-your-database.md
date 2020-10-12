@@ -4,7 +4,7 @@ title: Why Is Now the Best Time to Reach Out to Your Database?
 date: 2020-10-09 00:00:00
 tags:
   - Reviews and Referrals
-excerpt: Learn how to lean on our database in Q4 to jumpstart your 2021 success.
+excerpt: Learn how to lean on your database in Q4 to jumpstart your 2021 success.
 enclosure:
 pullquote: >-
   The fourth quarter is when we make our biggest push to ensure that the coming
@@ -19,9 +19,9 @@ hidden: false
 
 {% include youtube.html %}
 
-<center><em>Learn how to lean on our database in Q4 to jumpstart your 2021 success.</em></center>
+<center><em>Learn how to lean on your database in Q4 to jumpstart your 2021 success.</em></center>
 
-<br>To achieve a business worth owning, we need to work with and succeed through our relationships. **It’s the referral business that keeps us going strong regardless of market conditions**. You may have heard about the 33-touch system through “The Millionaire Real Estate Agent,” but here at the Kato Group, we have a 66-touch program; for the last five or six years, our touch program has seen steady year-over-year increases.
+<br>To achieve a business worth owning, we need to work with and succeed in our relationships. **It’s the referral business that keeps us going strong regardless of market conditions**. You may have heard about the 33-touch system through “The Millionaire Real Estate Agent,” but here at the Kato Group, we have a 66-touch program; for the last five or six years, our touch program has seen steady year-over-year increases.
 
 The fourth quarter is when we make our biggest push to ensure that the coming year starts off on the right foot. Due to COVID-19, there are still stay-at-home orders in place for specific areas. In L.A. County, for example, tricking-or-treating will not be allowed this year. That’s a bummer, but **our team recognized a great opportunity to pop by and say hello to all of our past clients, sphere of influence, and anyone who has ever directed business our way**.
 
