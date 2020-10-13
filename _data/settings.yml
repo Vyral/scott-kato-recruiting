@@ -38,9 +38,8 @@ client:
   phone2_type:
   email: scott@coachkato.com
   url: >-
-    <a href="https://calendly.com/skato/50min-growth-conversation"
-    target="_blank" rel="noopener noreferrer">Schedule an Appointment with
-    Scott</a>
+    <a href="https://calendly.com/skato/50min-growth-conversation>Schedule an
+    Appointment with Scott</a>
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Build Your Real Estate Career?
