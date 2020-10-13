@@ -39,4 +39,6 @@ Again, with COVID-19, this type of event is not viable. That’s why this year, 
 
 Hopefully this provided you with some Q4 inspiration. If there’s a topic that you’d like me to cover in a video, please let me know. If you’d like to attend any of our Zoom meetings or weekly masterminds, please visit my event page to register. See you next time\!
 
+[Schedule an Appointment with Scott](https://calendly.com/skato/50min-growth-conversation){: target="_blank" rel="noopener"}
+
 {% include full-post-cta.html %}
