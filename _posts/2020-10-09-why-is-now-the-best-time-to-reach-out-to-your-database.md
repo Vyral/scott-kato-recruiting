@@ -5,7 +5,8 @@ date: 2020-10-09 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Learn how to lean on your database in Q4 to jumpstart your 2021 success.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/Why+Is+Now+the+Best+Time+to+Reach+Out+to+Your+Database_.mp4
 pullquote: >-
   The fourth quarter is when we make our biggest push to ensure that the coming
   year starts off on the right foot.
