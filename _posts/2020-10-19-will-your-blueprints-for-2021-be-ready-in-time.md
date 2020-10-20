@@ -33,6 +33,6 @@ Perhaps your 2021 team planning event will simply involve your team gathering at
 
 No matter how you structure it, **your planning session needs to be a priority**. Here’s a pro tip for you: Train yourself to see November 1 as the new January 1. That way, you’ll hit the phones and your lead generation activities hard come November 1 to pack your pipeline with plenty of opportunities so you hit the ground running when the calendar turns over for real.
 
-Hopefully, this provided you with some Q4 inspiration. If there’s a topic that you’d like me to cover in a video, please let me know. If you’d like to attend any of our Zoom meetings or weekly masterminds, please visit my event page to register. See you next time\!
+Hopefully, this provided you with some Q4 inspiration. If there’s a topic that you’d like me to cover in a video, please let me know. If you’d like to attend any of our Zoom meetings or weekly masterminds, please <u><a target="_blank" rel="noopener" href="https://coachkato.com/events/">visit my event page</a></u> to register. See you next time\!
 
 {% include full-post-cta.html %}
