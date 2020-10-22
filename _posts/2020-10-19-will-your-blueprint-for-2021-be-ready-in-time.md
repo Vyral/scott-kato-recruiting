@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will Your Blueprints for 2021 Be Ready in Time?
+title: Will Your Blueprint for 2021 Be Ready in Time?
 date: 2020-10-19 00:00:00
 tags:
   - Transaction Management
@@ -21,7 +21,7 @@ hidden: false
 
 <center><em>The fourth quarter is now the start of the new year for your business.</em></center>
 
-<br>To have a successful new year, you need to have the blueprints laid out well in advance. It’s the fourth quarter of 2020, and **it’s time we plan for 2021**. For my real estate team, The Kato Group, we’re going to do our Team Advance 2021 event this October.
+<br>To have a successful new year, you need to have the blueprint laid out well in advance. It’s the fourth quarter of 2020, and **it’s time we plan for 2021**. For my real estate team, The Kato Group, we’re going to do our Team Advance 2021 event this October.
 
 Since we haven’t been able to spend as much time together as we normally would due to COVID-19, our team decided to take things on the road. We rented out a large house in Palm Springs for three days for our Team Advance 2021, to which each team member will come prepared with their ‘1-3-5’—their one goal, three priorities, and five strategies to ensure they succeed.
 
