@@ -5,7 +5,8 @@ date: 2020-10-19 00:00:00
 tags:
   - Transaction Management
 excerpt: The fourth quarter is now the start of the new year for your business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2020/Will+Your+Blueprint+for+2021+Be+Ready+in+Time_.mp4
 pullquote: >-
   Make sure that, come November 1, you’ve completely fleshed out a blueprint for
   a successful 2021.
