@@ -4,14 +4,14 @@ title: 'Real Estate Success Stories, Ep. 5: Monica Lopez'
 date: 2020-12-03 00:00:00
 tags:
   - Results
-excerpt:
+excerpt: She needed the routine and continuity that we offered.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/11-18-kato-youtube.jpg
+youtube_code: RPNusJifApo
 hidden: false
 ---
 
