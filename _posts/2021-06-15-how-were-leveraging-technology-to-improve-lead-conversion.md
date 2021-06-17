@@ -12,22 +12,22 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/06-14-kato-youtube.jpg
-youtube_code: awUsSp-X5CA
+youtube_code: k-R-SXBPx40
 hidden: false
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Did you know that 80% of escrows come from lead follow up? Are you leveraging technology to help you with this process? **If you’re not, you should start right now**.
+Did you know that 80% of escrows come from lead follow-ups? Are you leveraging technology to help you with this process? **If you’re not, you should start right now**.
 
-It’s crazy to think we spend hours generating leads, but when we find someone who is going to buy or sell in the near future, we don’t do anything to remind us to follow up with them. Did you know that 80% of sales people fall off after the third attempt?
+It’s crazy to think we spend hours generating leads, but when we find someone who is going to buy or sell in the near future, we don’t do anything to remind us to follow up with them. Did you know that 80% of salespeople fall off after the third attempt?
 
 {% include pullquote.html %}
 
 Here at the Kato Group, we leverage our technology. **When a lead comes in from a source, they are automatically sent a text and an email through our CRM**. The email has a video introduction, and we show them our packages, contracts, disclosures, and more. It’s all about creating value to get them to consume our content. That’s all in the first drip campaign.
 
-For the second drip, we’ll send them educational information. Home-buying requirements, the pre-approval process, putting together a competitive offer in today’s market, and more. **These are the things that buyers are thinking about but fond necessarily have the answer to**. Why not give it to them through an automated process?
+For the second drip, we’ll send them educational information: home-buying requirements, the pre-approval process, putting together a competitive offer in today’s market, and more. **These are the things that buyers are thinking about but don't necessarily have the answer to**. Why not give it to them through an automated process?
 
 By the time you reach out to a lead for the fifth, sixth, or seventh time, you are creating deposits. At some point, they will contact you back because you took mindshare over time. That’s how you’re going to win your next escrow.
 
