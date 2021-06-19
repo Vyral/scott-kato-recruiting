@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: This is how we utilize our CRM to convert more leads into clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2021/How+We%E2%80%99re+Leveraging+Technology+to+Improve+Lead+Conversion.mp4
 pullquote: Why not give them the information they want through an automated process?
 enclosure_type: video/mp4
 enclosure_time:
