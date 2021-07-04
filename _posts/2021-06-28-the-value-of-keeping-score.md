@@ -4,8 +4,9 @@ title: ' The Value of Keeping Score'
 date: 2021-06-28 00:00:00
 tags:
   - Transaction Management
-excerpt: Here’s how knowing your essential numbers will improve your business.
-enclosure:
+excerpt: Knowing your essential numbers will improve your business.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2021/The+Value+of+Keeping+Score.mp4
 pullquote: If you don’t know the score, you’re always losing.
 enclosure_type: video/mp4
 enclosure_time:
