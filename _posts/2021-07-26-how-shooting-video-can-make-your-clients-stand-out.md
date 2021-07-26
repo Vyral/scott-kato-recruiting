@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Shooting Video can Make Your Clients Stand Out
+title: How Shooting Video Can Make Your Clients Stand Out
 date: 2021-07-26 00:00:00
 tags:
   - Buyer Prospects
