@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   My advice on building rapport with listing agents and getting a great deal for
   your clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2021/How+Shooting+Video+Can+Make+Your+Clients+Stand+Out.mp4
 pullquote: >-
   The key is to answer the question, 'What would it be like to open escrow with
   this agent?'
