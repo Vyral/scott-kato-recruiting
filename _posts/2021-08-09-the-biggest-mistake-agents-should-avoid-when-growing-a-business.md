@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’m sharing the biggest mistake you should avoid when growing your real estate
   business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2021/The+Biggest+Mistake+Agents+Should+Avoid+When+Growing+a+Business.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
