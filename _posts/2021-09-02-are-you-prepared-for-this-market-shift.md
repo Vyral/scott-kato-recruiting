@@ -5,7 +5,8 @@ date: 2021-09-02 00:00:00
 tags:
   - Transaction Management
 excerpt: This famous Warren Buffett quote applies to today’s real estate industry.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2021/Are+You+Prepared+for+This+Market+Shift_.mp4
 pullquote: When the market shifts, those who aren’t prepared will be exposed.
 enclosure_type: video/mp4
 enclosure_time:
