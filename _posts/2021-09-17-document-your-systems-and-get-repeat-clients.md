@@ -6,7 +6,8 @@ tags:
   - Transaction Management
   - Reviews and Referrals
 excerpt: Two ways you can start moving from a solo practice to a business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2021/Document+Your+Systems+and+Get+Repeat+Clients.mp4
 pullquote: >-
   The goal is to document your systems and keep in touch with clients so that
   nothing falls through the cracks.
