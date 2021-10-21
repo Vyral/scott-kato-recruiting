@@ -5,7 +5,8 @@ date: 2021-10-14 00:00:00
 tags:
     - Transaction Management
 excerpt: How mastering contracts and disclosures help you become a top producer.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2021/Why+Contracts+and+Disclosures+Are+Vital+To+Understand.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
