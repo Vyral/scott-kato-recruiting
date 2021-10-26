@@ -34,6 +34,6 @@ The No. 1 rule to remember is that everyone in the world just wants to be heard.
 
 Stay tuned for the next episode in this series. In the meantime, reach out if you have questions about the business, your career, or anything else. I would love to hear from you.
 
-###<center><a target="_blank" rel="noopener" href="https://coachkato.com/why-contracts-and-disclosures-are-vital-to-understand.html">Part 1</a> | <a target="_blank" rel="noopener" href="https://coachkato.com/why-learning-scripts-is-so-important.html">Part 2</a></center>
+<center><a target="_blank" rel="noopener" href="https://coachkato.com/why-contracts-and-disclosures-are-vital-to-understand.html">Part 1</a> | <a target="_blank" rel="noopener" href="https://coachkato.com/why-learning-scripts-is-so-important.html">Part 2</a></center>
 
 {% include full-post-cta.html %}
