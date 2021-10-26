@@ -39,4 +39,6 @@ To be a top producer, there are two things you must become a master of: contract
 
 If you have questions for me about this topic, would like to attend any of our future training sessions, or just have a growth conversation about your business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
+Check out [<u>part two here</u>](https://coachkato.com/why-learning-scripts-is-so-important.html){: target="_blank" rel="noopener"}\!
+
 {% include full-post-cta.html %}
