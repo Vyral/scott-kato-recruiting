@@ -5,7 +5,8 @@ date: 2021-10-26 00:00:00
 tags:
     - Transaction Management
 excerpt: All the top producers memorize and understand scripts.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2021/Why+Learning+Scripts+Is+So+Important.mp4
 pullquote: You can build trust and rapport by asking the right questions.
 enclosure_type: video/mp4
 enclosure_time:
