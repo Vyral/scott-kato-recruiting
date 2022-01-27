@@ -5,7 +5,8 @@ date: 2021-12-27 00:00:00
 tags:
   - Buyer Prospects
 excerpt: Here’s how you can protect your buyers in rent-back agreements.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Kato/Videos/2022/A+Better+Way+To+Handle+Rent-Back+Agreements.mp4
 pullquote: You have to protect your buyer clients in rent-back agreements.
 enclosure_type: video/mp4
 enclosure_time:
